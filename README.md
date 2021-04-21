@@ -4,32 +4,10 @@
 
 <head>
 <link href='https://fonts.googleapis.com/css?family=Alfa Slab One' rel='stylesheet'>
-
-<style>
-
-h2, h3 {
-    text-align: center;
-    font-size: 1.75rem;
-    font-family: "Alfa Slab One", sans-serif;
-}
-
-.stats {
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-}
-
-.stats img {
-    height: auto;
-    width: 48.5%;
-}
-
-</style>
+<link rel="stylesheet" href="./styles.css">
 </head>
 
 <body>
-
 <h2>Hi there 👋</h2>
 <h3>My name is Jakub Vorel</h3>
 
@@ -42,5 +20,4 @@ h2, h3 {
 </div>
 
 </body>
-
 </html>

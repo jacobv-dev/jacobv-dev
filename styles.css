@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2, h3 {
+    text-align: center;
+    font-size: 1.75rem;
+    font-family: "Alfa Slab One", sans-serif;
+}
+
+.stats {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.stats img {
+    height: auto;
+    width: 48.5%;
+}
