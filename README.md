@@ -4,19 +4,19 @@
 
 <head>
 <link href='https://fonts.googleapis.com/css?family=Alfa Slab One' rel='stylesheet'>
-<link rel="stylesheet" href="./styles.css">
 </head>
 
 <body>
-<h2>Hi there 👋</h2>
-<h3>My name is Jakub Vorel</h3>
+<h2 style="text-align: center; font-size: 1.75rem; font-family: 'Alfa Slab One', sans-serif;">Hi there 👋</h2>
+
+<h3 style="text-align: center; font-size: 1.75rem; font-family: 'Alfa Slab One', sans-serif;">My name is Jakub Vorel</h3>
 
 <hr>
 <br>
 
-<div class="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacobv-dev&show_icons=true&theme=react&include_all_commits=true" alt="My Github Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobv-dev&layout=compact&theme=react" alt="My Language Stats">
+<div style="display: flex; align-items: center; justify-content: space-evenly; flex-wrap: wrap;">
+  <img style="height: auto; width: 48.5%;" src="https://github-readme-stats.vercel.app/api?username=jacobv-dev&show_icons=true&theme=react&include_all_commits=true" alt="My Github Stats">
+  <img style="height: auto; width: 48.5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobv-dev&layout=compact&theme=react" alt="My Language Stats">
 </div>
 
 </body>
