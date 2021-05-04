@@ -1,10 +1,8 @@
-<h3 style="font-size: 2rem" align="center">👋 Hi there! I'm Jakub Vorel</h3>
+<h1 align="center">👋 Hi there! I'm Jakub Vorel</h1>
 
-<p align="center">
+<h3 align="center">
   <b>Student and Web Developer</b>
-</p>
-
----
+</h3>
 
 ## 📲 Contact
  - [GitHub](https://github.com/jacobv-dev)
