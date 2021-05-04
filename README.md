@@ -14,7 +14,7 @@
 <hr>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-evenly; flex-wrap: wrap;">
+<div>
   <img style="height: auto; width: 48.5%;" src="https://github-readme-stats.vercel.app/api?username=jacobv-dev&show_icons=true&theme=react&include_all_commits=true" alt="My Github Stats">
   <img style="height: auto; width: 48.5%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobv-dev&layout=compact&theme=react" alt="My Language Stats">
 </div>
