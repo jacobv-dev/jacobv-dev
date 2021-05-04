@@ -5,7 +5,6 @@
 </p>
 
 ---
-<br/>
 
 ## 📲 Contact
  - [GitHub](https://github.com/jacobv-dev)
