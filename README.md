@@ -5,11 +5,12 @@
 </p>
 
 ---
-
-<p align="center">Hi! My name is <b>Jakub Vorel</b>. I'm Student and beginner WEB Developer.</p>
+<br/>
 
 ## 📲 Contact
  - [GitHub](https://github.com/jacobv-dev)
+
+<br/>
 
 ## 📊 Stats
 
