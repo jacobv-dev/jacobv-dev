@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there! I'm Jakub Vorel</h2>
+<h3 style="font-size: 2rem" align="center">👋 Hi there! I'm Jakub Vorel</h3>
 
 <p align="center">
   <b>Student and Web Developer</b>
