@@ -4,11 +4,6 @@
   <b>Student and Web Developer</b>
 </h3>
 
-## 📲 Contact
- - [GitHub](https://github.com/jacobv-dev)
-
-<br/>
-
 ## 📊 Stats
 
 <p align="center">
